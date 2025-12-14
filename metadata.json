@@ -1,0 +1,5 @@
+{
+  "name": "LifeLens",
+  "description": "A multimodal executive assistant that analyzes images and text to generate structured summaries, plans, and data.",
+  "requestFramePermissions": []
+}
